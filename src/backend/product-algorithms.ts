@@ -1,3 +1,4 @@
+/* ok */
 import type { Product, ProductSort, SortOrder } from "@/domain/product";
 
 export type QuickSortResult<T> = {
